@@ -1,7 +1,7 @@
 Gone Time Tracker
 =================
 
-[![Build](https://github.com/dim13/gone/workflows/build/badge.svg)](https://github.com/dim13/gone/actions)
+[![Go](https://github.com/dim13/gone/actions/workflows/go.yml/badge.svg)](https://github.com/dim13/gone/actions/workflows/go.yml)
 
 Where has my time gone? X11 automatic work activity tracker in pure Go.
 
